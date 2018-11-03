@@ -1,13 +1,15 @@
 ---
-title: "Unsupervised Video-to-Video Translation"
+title: "Paper Title Number 444444"
 collection: publications
-permalink: /publication/2018-Unsupervised-Video2Video-Translation
-excerpt: ''
-date: 2018-09-27
-venue: 'submitted to ICLR'19'
-paperurl: 'http://dbash.github.io/files/uns_v2v_ICLR19.pdf'
-citation: 'Dina Bashkirova, Ben Usman and Kate Saenko. (2018). &quot;Unsupervised Video-to-Video Translation.&quot; <i>International Conference on Learning Representations</i>. 1(1).'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-AAA
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://dbash.github.io/files/uns_v2v_ICLR19.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
