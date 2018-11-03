@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Video-to-Video Translation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-Unsupervised-Video2Video-Translation
 excerpt: ''
 date: 2018-09-27
 venue: 'submitted to ICLR'19'
