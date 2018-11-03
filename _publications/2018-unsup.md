@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Video-to-Video Translation"
 collection: publications
-permalink: /publication/2018-unsup
+permalink: /publication/2018-unsup.md
 date: 2018-27-09
 venue: 'submitted to ICLR19'
 paperurl: 'http://dbash.github.io/files/uns_v2v_ICLR19.pdf'
