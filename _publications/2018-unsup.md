@@ -2,11 +2,10 @@
 title: "Unsupervised Video-to-Video Translation"
 collection: publications
 permalink: /publication/2018-unsup
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2018-27-09
 venue: 'submitted to ICLR19'
 paperurl: 'http://dbash.github.io/files/uns_v2v_ICLR19.pdf'
-citation: 'Dina Bashkirova, Ben Usman and Kate Saenko. (2018). &quot;Unsupervised Video-to-Video Translation.&quot; <i>International Conference on Learning Representations</i>. 1(1).'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
