@@ -2,7 +2,7 @@
 title: "Unsupervised Video-to-Video Translation"
 collection: publications
 permalink: /publication/2018-unsup.md
-date: 2018-27-09
+date: 2018-09-27
 venue: 'submitted to ICLR19'
 paperurl: 'http://dbash.github.io/files/uns_v2v_ICLR19.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
