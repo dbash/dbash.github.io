@@ -1,5 +1,5 @@
 ---
-title: "FFast L1 Gauss Transforms for Edge-Aware Image Filtering"
+title: "Fast L1 Gauss Transforms for Edge-Aware Image Filtering"
 collection: publications
 permalink: /publication/fast_l1_gauss_transform
 date: 2017-03-10
